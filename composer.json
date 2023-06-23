@@ -1,0 +1,14 @@
+{
+    "name": "umbender/learn_composer",
+    "description": "Projeto que funciona apesar de ser php",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Gustavo Bender",
+            "email": "gustavo.benderr@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.7"
+    }
+}
