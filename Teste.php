@@ -2,7 +2,8 @@
 
 class Teste {
     public static function teste() {
-        echo "Teste";
+        echo "Teste" . PHP_EOL;
+		echo "Teste" . PHP_EOL;
     }
 
 

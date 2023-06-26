@@ -1,6 +1,5 @@
 {
-    "name": "umbender/learn_composer",
-    "description": "Projeto que funciona apesar de ser php",
+    "name": "umbender/learn_composer", "description": "Projeto que funciona apesar de ser php",
     "type": "library",
     "authors": [
         {
